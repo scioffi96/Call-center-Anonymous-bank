@@ -6,7 +6,7 @@ Este dashboard de Power BI muestra las operaciones del call center del banco Ano
 
 
 
-![Logo](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/portada.PNG?raw=true)
+![Logo](https://github.com/scioffi96/Call-center-Anonymous-bank/blob/main/Portada.PNG?raw=true)
 
 ## Dataset
 
@@ -45,4 +45,4 @@ Una vez efectuadas todas las transformaciones y normalizaciones en Power Query, 
 A su vez creamos la tabla calendario [calendar] para poder ser utilizada en funciones de inteligencia de tiempo y mayor nivel de agregación de datos.
 El modelo quedó de la siguiente forma:
 
-[Modelo](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/modelo.PNG)
+[Modelo](https://github.com/scioffi96/Call-center-Anonymous-bank/blob/main/Modelo.PNG?raw=true)
