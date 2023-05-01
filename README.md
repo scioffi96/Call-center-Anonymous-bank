@@ -14,7 +14,7 @@ Para el presente trabajo se utilizó un dataset que fue proporcionado por Henry 
 El mismo consta de 444.448 filas y 18 columnas. Para información acerca del contenido del dataset, atributos e información relevante se utilizó el documento denominado
 "Ejercicio Call Center - Descripción del DataSet.docx"
 
-[Diccionario de datos](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/Ejercicio%20Call%20Center%20-%20Descripci%C3%B3n%20del%20DataSet.docx)
+[Diccionario de datos](https://github.com/scioffi96/Call-center-Anonymous-bank/blob/main/Ejercicio%20Call%20Center%20-%20Descripci%C3%B3n%20del%20DataSet.docx)
 ## Objetivo
 
 El propósito del trabajo fue describir las operaciones del call center en función de las variables del negocio y proponer mejoras para el segmento premium de clientes.
