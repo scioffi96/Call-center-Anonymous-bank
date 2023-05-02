@@ -63,7 +63,7 @@ En la primer página denominada "Llamadas" se puede observar la descripción de 
 - Proporción de llamadas por resultado,
 - Distribución de llamadas por tipo de servicio.
 
-![Logo](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/llamadas.PNG?raw=true)
+![Logo](https://github.com/scioffi96/Call-center-Anonymous-bank/blob/main/Llamadas.PNG?raw=true)
 
 En la segunda y última página llamada "Segmento Premium" se efectuó un detalle de las operaciones para clientes de alta prioridad (Premium) indicando:
 
@@ -74,9 +74,9 @@ En la segunda y última página llamada "Segmento Premium" se efectuó un detall
 - Distribución de llamadas según motivo,
 - Histórico (evolución) de llamadas por período, pudiendo el usuario navegar por la jerarquía de trimestre, mes y día (por defecto se muestra mensual). El gráfico de líneas presenta a su vez un detalle de la proporción de llamadas con y sin servicio para cada punto en formato de tooltip o gráfico emergente.
 
-![Logo](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/premium.PNG?raw=true)
+![Logo](https://github.com/scioffi96/Call-center-Anonymous-bank/blob/main/Premium.PNG?raw=true)
 
-[Visualización página Segmento Premium con tooltip](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/premium%20con%20tooltip.PNG)
+[Visualización página Segmento Premium con tooltip](https://github.com/scioffi96/Call-center-Anonymous-bank/blob/main/Premium_tooltip.PNG?raw=true)
 ## Insights
 
 A lo largo del trabajo de análisis, visualización y exploración de datos, arribamos a las siguientes conclusiones:
